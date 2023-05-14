@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Hadar Logo" src="https://raw.github.com/CristianVasquez13/Hadar-ST/master/images/logo.png" width="200"/>
+    <img alt="Hadar Logo" src="https://raw.github.com/CristianVasquez13/Hadar-sublimeText/master/images/logo.png" width="200"/>
 </p>
 <h1 align="center">Hadar Theme for Sublime Text</h1>
 
@@ -11,15 +11,15 @@
 
 <h1 align="center">Hadar</h1>
 
-![demo](https://raw.github.com/CristianVasquez13/Hadar-ST/master/images/hadar.png)
+![demo](https://raw.github.com/CristianVasquez13/Hadar-sublimeText/master/images/hadar.png)
 
 <h1 align="center">Hadar II</h1>
 
-![demo](https://raw.github.com/CristianVasquez13/Hadar-ST/master/images/hadarII.png)
+![demo](https://raw.github.com/CristianVasquez13/Hadar-sublimeText/master/images/hadarII.png)
 
 <h1 align="center">Hadar III</h1>
 
-![demo](https://raw.github.com/CristianVasquez13/Hadar-ST/master/images/hadarIII.png)
+![demo](https://raw.github.com/CristianVasquez13/Hadar-sublimeText/master/images/hadarIII.png)
 
 ## I Installation
 
