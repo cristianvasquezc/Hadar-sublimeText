@@ -5370,6 +5370,61 @@
 				<string>#A6A6A6FF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_A2AABCB3</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#A2AABCB3</string>
+				<key>foreground</key>
+				<string>#F8F8F8FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_A2AABC80</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#A2AABC80</string>
+				<key>foreground</key>
+				<string>#D6D6D6FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_E01E3755</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#E01E3755</string>
+				<key>foreground</key>
+				<string>#A0A0A0FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_A2AABC4D</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#A2AABC4D</string>
+				<key>foreground</key>
+				<string>#B5B5B5FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_E01E37FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#E01E37FF</string>
+				<key>foreground</key>
+				<string>#DADADAFF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>fc8112bf-c635-48e7-a1e9-19f1c6b5d8a3</string>

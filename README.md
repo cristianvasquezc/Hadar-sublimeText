@@ -37,27 +37,6 @@ Open command palette via `Tools > Command Palette` (or <kbd>cmd/ctrl</kbd> + <kb
 
 ## Via Preferences
 
-Add these lines to your user settings *`Preferences > Setting - User`*:
+Add these lines to your user settings *`Preferences > Package Settings > Hadar Theme > Selected Theme`*:
 
-
-For Hadar:
-
-```js
-"theme": "Hadar.sublime-theme",
-"color_scheme": "Packages/Hadar Theme/Hadar.sublime-color-scheme",
-```
-
-For Hadar II:
-
-```js
-"theme": "Hadar II.sublime-theme",
-"color_scheme": "Packages/Hadar Theme/Hadar II.sublime-color-scheme",
-```
-
-For Hadar III:
-
-```js
-"theme": "Hadar III.sublime-theme",
-"color_scheme": "Packages/Hadar Theme/Hadar III.sublime-color-scheme",
-```
 <p align="center">Elaborado por: <a href="https://mislinks.netlify.app/">Cristian Vásquez</a></p>
