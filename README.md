@@ -37,6 +37,6 @@ Open command palette via `Tools > Command Palette` (or <kbd>cmd/ctrl</kbd> + <kb
 
 ## Via Preferences
 
-Add these lines to your user settings *`Preferences > Package Settings > Hadar Theme > Selected Theme`*:
+Add these lines to your user settings *`Preferences > Package Settings > Hadar Theme > Selected Theme`*
 
 <p align="center">Elaborado por: <a href="https://mislinks.netlify.app/">Cristian Vásquez</a></p>
